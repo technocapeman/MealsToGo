@@ -15,5 +15,4 @@ export const IndicatorView = styled.View`
 
 export const IndicatorStyled = styled(ActivityIndicator)`
   margin-left: -25px;
-  margin-top: 300px;
 `;
